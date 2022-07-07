@@ -1,0 +1,4 @@
+*~
+venv
+store_app/*~
+store_app/__pycache__
